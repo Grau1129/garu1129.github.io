@@ -1,0 +1,14 @@
+header {
+  background-color: lightgreen;
+  width: 100%;
+  height: 60px;
+}
+.header-logo {
+  float: left;
+}
+.header-support {
+  float: right;
+}
+.languages {
+
+}
